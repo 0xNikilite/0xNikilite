@@ -10,20 +10,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xNikilite&theme=merko" height="150" alt="Repo per linguaggio"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xNikilite&theme=merko" height="150" alt="Linguaggi più usati"/>
-</div>
-
-###
-
-<div align="center">
-  <h3>Profile Visits</h3>
-  <h6 style="margin: 0; padding-top: 5px; color: #888">since February 27, 2025</h6>
-  <img src="https://komarev.com/ghpvc/?username=Nikilites&color=blueviolet&style=flat" alt="Visitors"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=0xNikilite&show_icons=true&theme=dracula" height="150" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xNikilite&layout=compact&theme=dracula" height="150" style="vertical-align: middle;" />
 </div>
 
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nikilites/Nikilites/output/snake.svg" alt="Snake animation" width="45%" />
+  <img src="https://raw.githubusercontent.com/0xNikilite/0xNikilite/output/snake.svg" alt="Snake animation" width="45%" />
 </p>
